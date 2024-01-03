@@ -1,0 +1,407 @@
+25/11/2023 10:36
+
+MultipleLost
+
+Total Stake:200.00
+
+Total Return:0.00
+
+25/11/2023 01:36
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+21/11/2023 00:01
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+20/11/2023 23:57
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+20/11/2023 23:56
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+20/11/2023 23:54
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+20/11/2023 23:37
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+18/11/2023 00:23
+
+MultipleLost
+
+Total Stake:50.00
+
+Total Return:0.00
+
+18/11/2023 00:01
+
+MultipleLost
+
+Total Stake:50.00
+
+Total Return:0.00
+
+17/11/2023 23:59
+
+MultipleLost
+
+Total Stake:50.00
+
+Total Return:0.00
+
+17/11/2023 23:59
+
+MultipleLost
+
+Total Stake:50.00
+
+Total Return:0.00
+
+17/11/2023 23:53
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+17/11/2023 23:50
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+16/11/2023 01:43
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+15/11/2023 00:39
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+15/11/2023 00:37
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+15/11/2023 00:28
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+14/11/2023 00:32
+
+MultipleLost
+
+Total Stake:1,000.00
+
+Total Return:0.00
+
+13/11/2023 00:33
+
+MultipleLost
+
+Total Stake:400.00
+
+Total Return:0.00
+
+13/11/2023 00:25
+
+MultipleLost
+
+Total Stake:553.22
+
+Total Return:0.00
+
+12/11/2023 18:06
+
+SinglesWon
+
+Total Stake:900.00
+
+Total Return:842.76
+
+12/11/2023 00:34
+
+MultipleWon
+
+Total Stake:2,000.00
+
+Total Return:1,058.43
+
+12/11/2023 00:31
+
+SinglesWon
+
+Total Stake:2,000.00
+
+Total Return:742.94
+
+11/11/2023 22:52
+
+SinglesWon
+
+Total Stake:200.00
+
+Total Return:209.09
+
+11/11/2023 14:19
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 10:39
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 10:39
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 10:38
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 03:16
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 03:07
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 03:01
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 03:00
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 02:57
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 02:47
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+11/11/2023 02:06
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+11/11/2023 02:01
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+08/11/2023 17:10
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+08/11/2023 00:25
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+07/11/2023 13:33
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+07/11/2023 01:35
+
+MultipleLost
+
+Total Stake:1,000.00
+
+Total Return:0.00
+
+05/11/2023 00:12
+
+MultipleLost
+
+Total Stake:300.00
+
+Total Return:0.00
+
+04/11/2023 23:43
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+04/11/2023 23:25
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+04/11/2023 00:08
+
+MultipleLost
+
+Total Stake:50.00
+
+Total Return:0.00
+
+03/11/2023 23:27
+
+MultipleLost
+
+Total Stake:450.00
+
+Total Return:0.00
+
+02/11/2023 01:42
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+01/11/2023 19:00
+
+MultipleLost
+
+Total Stake:500.00
+
+Total Return:0.00
+
+01/11/2023 16:53
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+01/11/2023 16:50
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+01/11/2023 11:06
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
+
+01/11/2023 10:57
+
+MultipleLost
+
+Total Stake:100.00
+
+Total Return:0.00
